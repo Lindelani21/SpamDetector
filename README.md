@@ -7,7 +7,7 @@ This is a simple spam classification tool that analyzes email content based on p
 - Identifies spam using keyword-based scoring.
 - Detects spam symbols such as excessive punctuation, uppercase words, and URLs using regular expressions.
 - Implements a threshold-based classification system.
-- Provides a Tkinter GUI for user-friendly interaction.
+- Provides a Tkinter graphical user interface for user-friendly interaction.
 
 ## Technologies Used
 - **Python** 
