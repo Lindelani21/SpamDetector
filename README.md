@@ -1,7 +1,7 @@
 # Spam Detector
 
 ## Overview
-This is a simple spam classification tool that analyzes email content based on predefined keywords and patterns. I used a rule-based scoring to differentiate between spam and legitimate emails.
+This is a simple spam classification tool that analyzes email content based on predefined keywords and patterns. I used a rule based scoring to differentiate between spam and legitimate emails.
 
 ## Features
 - Identifies spam using keyword-based scoring.
